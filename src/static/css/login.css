@@ -1,0 +1,20 @@
+.login {
+    height: 800px;
+}
+
+.form {
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    left: 40%;
+    top: 30%;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.ant-form {
+    width: 360px;
+    padding: 16% 0;
+    margin: auto;
+}
